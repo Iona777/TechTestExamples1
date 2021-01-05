@@ -1,0 +1,13 @@
+C:\Users\gregm\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ExampleTechTests.exe
+C:\Users\gregm\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ExampleTechTests.deps.json
+C:\Users\gregm\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ExampleTechTests.runtimeconfig.json
+C:\Users\gregm\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ExampleTechTests.runtimeconfig.dev.json
+C:\Users\gregm\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ExampleTechTests.dll
+C:\Users\gregm\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ExampleTechTests.pdb
+C:\Users\gregm\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ExampleTechTests.csprojAssemblyReference.cache
+C:\Users\gregm\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ExampleTechTests.csproj.CoreCompileInputs.cache
+C:\Users\gregm\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ExampleTechTests.AssemblyInfoInputs.cache
+C:\Users\gregm\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ExampleTechTests.AssemblyInfo.cs
+C:\Users\gregm\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ExampleTechTests.dll
+C:\Users\gregm\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ExampleTechTests.pdb
+C:\Users\gregm\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ExampleTechTests.genruntimeconfig.cache
